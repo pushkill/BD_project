@@ -1,0 +1,52 @@
+Could not find conda environment: bd39
+You can list all discoverable environments with `conda info --envs`.
+
+[I 18:11:46.618 NotebookApp] JupyterLab extension loaded from /cvmfs/sling.si/modules/el7/software/Anaconda3/2020.11/lib/python3.8/site-packages/jupyterlab
+[I 18:11:46.618 NotebookApp] JupyterLab application directory is /cvmfs/sling.si/modules/el7/software/Anaconda3/2020.11/share/jupyter/lab
+[I 18:11:46.622 NotebookApp] Serving notebooks from local directory: /d/hpc/home/mf4782/BD_project
+[I 18:11:46.622 NotebookApp] Jupyter Notebook 6.1.4 is running at:
+[I 18:11:46.622 NotebookApp] http://wn155.arnes.si:21722/?token=dea74322e1e015f4e6fabf857ef1ffcba3e920203ba63ba0
+[I 18:11:46.622 NotebookApp]  or http://127.0.0.1:21722/?token=dea74322e1e015f4e6fabf857ef1ffcba3e920203ba63ba0
+[I 18:11:46.622 NotebookApp] Use Control-C to stop this server and shut down all kernels (twice to skip confirmation).
+[C 18:11:46.629 NotebookApp] 
+    
+    To access the notebook, open this file in a browser:
+        file:///d/hpc/home/mf4782/.local/share/jupyter/runtime/nbserver-684292-open.html
+    Or copy and paste one of these URLs:
+        http://wn155.arnes.si:21722/?token=dea74322e1e015f4e6fabf857ef1ffcba3e920203ba63ba0
+     or http://127.0.0.1:21722/?token=dea74322e1e015f4e6fabf857ef1ffcba3e920203ba63ba0
+[I 18:14:07.438 NotebookApp] 302 GET /?token=dea74322e1e015f4e6fabf857ef1ffcba3e920203ba63ba0 (153.5.72.251) 0.73ms
+[W 18:14:26.946 NotebookApp] Notebook project.ipynb is not trusted
+[I 18:14:29.150 NotebookApp] Kernel started: 1face6e6-1489-4613-94c4-181098611d40, name: python3
+[I 18:16:28.390 NotebookApp] Saving file at /project.ipynb
+[I 18:18:28.429 NotebookApp] Saving file at /project.ipynb
+[I 18:20:28.501 NotebookApp] Saving file at /project.ipynb
+[I 18:20:53.095 NotebookApp] Starting buffering for 1face6e6-1489-4613-94c4-181098611d40:5ae5eb30af8947d38777e8171447d4eb
+[I 18:20:53.269 NotebookApp] Kernel shutdown: 1face6e6-1489-4613-94c4-181098611d40
+[I 18:20:56.025 NotebookApp] Kernel started: 0352e2a4-c2d1-4432-96e2-967e6ea6b376, name: bd39
+[W 18:21:11.123 NotebookApp] Notebook Dask-Slurm.ipynb is not trusted
+[I 18:21:13.674 NotebookApp] Kernel started: 9ef41bb5-c29c-4608-9f16-67c0888b9758, name: python3
+[I 18:22:14.652 NotebookApp] Saving file at /project.ipynb
+[I 18:23:12.930 NotebookApp] Saving file at /Dask-Slurm.ipynb
+[W 18:23:12.930 NotebookApp] Notebook Dask-Slurm.ipynb is not trusted
+[I 18:26:29.224 NotebookApp] Saving file at /project.ipynb
+[I 18:28:28.422 NotebookApp] Saving file at /project.ipynb
+[I 18:29:31.410 NotebookApp] Kernel interrupted: 0352e2a4-c2d1-4432-96e2-967e6ea6b376
+[I 18:30:33.137 NotebookApp] Saving file at /project.ipynb
+[I 18:31:39.568 NotebookApp] Kernel interrupted: 0352e2a4-c2d1-4432-96e2-967e6ea6b376
+[I 18:32:28.927 NotebookApp] Saving file at /project.ipynb
+[I 18:34:28.391 NotebookApp] Saving file at /project.ipynb
+[I 18:36:28.381 NotebookApp] Saving file at /project.ipynb
+[I 18:38:28.410 NotebookApp] Saving file at /project.ipynb
+[I 18:38:42.334 NotebookApp] Starting buffering for 9ef41bb5-c29c-4608-9f16-67c0888b9758:e740cb808f0445328ef7d9896154ebff
+[I 18:40:28.704 NotebookApp] Saving file at /project.ipynb
+[I 18:42:28.592 NotebookApp] Saving file at /project.ipynb
+[I 18:44:10.375 NotebookApp] Starting buffering for 0352e2a4-c2d1-4432-96e2-967e6ea6b376:5ae5eb30af8947d38777e8171447d4eb
+[I 18:44:15.478 NotebookApp] Kernel restarted: 0352e2a4-c2d1-4432-96e2-967e6ea6b376
+[I 18:44:15.780 NotebookApp] Restoring connection for 0352e2a4-c2d1-4432-96e2-967e6ea6b376:5ae5eb30af8947d38777e8171447d4eb
+[I 18:44:15.780 NotebookApp] Replaying 3 buffered messages
+[I 18:44:28.487 NotebookApp] Saving file at /project.ipynb
+[I 18:46:28.429 NotebookApp] Saving file at /project.ipynb
+[I 18:54:28.536 NotebookApp] Saving file at /project.ipynb
+[W 18:55:40.593 NotebookApp] Notebook Dask-Slurm.ipynb is not trusted
+slurmstepd: error: *** JOB 32283371 ON wn155 CANCELLED AT 2022-05-23T18:56:24 DUE TO TIME LIMIT ***

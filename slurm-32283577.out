@@ -1,0 +1,27 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://153.5.72.24:37377'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://153.5.72.24:37285'
+distributed.worker - INFO -       Start worker at:    tcp://153.5.72.24:38109
+distributed.worker - INFO -       Start worker at:    tcp://153.5.72.24:33545
+distributed.worker - INFO -          Listening to:    tcp://153.5.72.24:38109
+distributed.worker - INFO -          Listening to:    tcp://153.5.72.24:33545
+distributed.worker - INFO -          dashboard at:          153.5.72.24:40647
+distributed.worker - INFO -          dashboard at:          153.5.72.24:45053
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-fyn2up_j
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-zuqlna6i
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 32283577 ON wn024 CANCELLED AT 2022-05-23T18:44:10 ***

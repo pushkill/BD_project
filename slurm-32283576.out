@@ -1,0 +1,271 @@
+distributed.nanny - INFO -         Start Nanny at: 'tcp://153.5.72.161:41655'
+distributed.nanny - INFO -         Start Nanny at: 'tcp://153.5.72.161:42663'
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:43411
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:37161
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:43411
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:37161
+distributed.worker - INFO -          dashboard at:         153.5.72.161:34675
+distributed.worker - INFO -          dashboard at:         153.5.72.161:37251
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-bouggbst
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-kdshtxus
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 93% memory usage. Pausing worker.  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.75 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.81 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 365480 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.diskutils - INFO - Found stale lock file and directory '/d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-byoui4zq', purging
+distributed.diskutils - INFO - Found stale lock file and directory '/d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-fo0he2x9', purging
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:37771
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:37771
+distributed.worker - INFO -          dashboard at:         153.5.72.161:38661
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-1j95gcja
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.72 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.72 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.72 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.75 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.79 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 365482 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:39013
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:39013
+distributed.worker - INFO -          dashboard at:         153.5.72.161:45631
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-ps6_qnc4
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 393831 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:46709
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:46709
+distributed.worker - INFO -          dashboard at:         153.5.72.161:36125
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-ly4murxc
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.77 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.79 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 393891 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:33735
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:33735
+distributed.worker - INFO -          dashboard at:         153.5.72.161:42193
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-uyn010yj
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 93% memory usage. Pausing worker.  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.77 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.79 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 393996 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:40117
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:40117
+distributed.worker - INFO -          dashboard at:         153.5.72.161:43361
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-jx6phi5t
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.77 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 393939 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:38955
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:38955
+distributed.worker - INFO -          dashboard at:         153.5.72.161:33423
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-7p70i1ga
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.75 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.81 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 399746 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:42317
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:42317
+distributed.worker - INFO -          dashboard at:         153.5.72.161:43221
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-k77cm6jh
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.72 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.75 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.80 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 399900 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:39433
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:39433
+distributed.worker - INFO -          dashboard at:         153.5.72.161:43871
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-bl6nmk_b
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 93% memory usage. Pausing worker.  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.80 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 400295 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:43463
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:43463
+distributed.worker - INFO -          dashboard at:         153.5.72.161:34637
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-52eefm3p
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.74 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 400037 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:46111
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:46111
+distributed.worker - INFO -          dashboard at:         153.5.72.161:39379
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-05yo722z
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.73 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.76 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.78 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 409682 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:40021
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:40021
+distributed.worker - INFO -          dashboard at:         153.5.72.161:32805
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-0mlnnyvq
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+distributed.worker - WARNING - Worker is at 92% memory usage. Pausing worker.  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.71 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.73 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.76 GB -- Worker memory limit: 4.00 GB
+distributed.worker - WARNING - Memory use is high but worker has no data to store to disk.  Perhaps some other process is leaking memory?  Process memory: 3.79 GB -- Worker memory limit: 4.00 GB
+distributed.nanny - WARNING - Worker exceeded 95% memory budget. Restarting
+distributed.nanny - INFO - Worker process 410717 was killed by signal 15
+distributed.nanny - WARNING - Restarting worker
+distributed.worker - INFO -       Start worker at:   tcp://153.5.72.161:33145
+distributed.worker - INFO -          Listening to:   tcp://153.5.72.161:33145
+distributed.worker - INFO -          dashboard at:         153.5.72.161:36711
+distributed.worker - INFO - Waiting to connect to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -               Threads:                          8
+distributed.worker - INFO -                Memory:                    4.00 GB
+distributed.worker - INFO -       Local Directory: /d/hpc/home/mf4782/BD_project/dask-worker-space/dask-worker-space/worker-5u8926j4
+distributed.worker - INFO - -------------------------------------------------
+distributed.worker - INFO -         Registered to:   tcp://153.5.72.155:37519
+distributed.worker - INFO - -------------------------------------------------
+distributed.core - INFO - Starting established connection
+slurmstepd: error: *** JOB 32283576 ON wn161 CANCELLED AT 2022-05-23T18:44:10 ***

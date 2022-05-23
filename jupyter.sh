@@ -12,4 +12,4 @@ source activate bd39
 echo "Create the tunnel with:"
 echo "ssh -L ${port}:$SLURMD_NODENAME:${port} <HPC login node>"
 
-jupyter notebook --no-browser --ip=0.0.0.0 --port="${port}" --notebook-dir ~/notebooks
+jupyter notebook --no-browser --ip=0.0.0.0 --port="${port}" --notebook-dir ~/BD_project
