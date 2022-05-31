@@ -1,0 +1,20 @@
+ssh mt0603@hpc-login.arnes.si
+
+ZA KOPIRATI PODATKE NEKAM NA STREZNIK
+scp -r data mt0603@hpc-login.arnes.si:/d/hpc/home/mt0603/BD_project
+
+ZA POGANJATI JUPYTER NOTEBOOK
+notebooks]$ jupyter notebook --no-browser --port=8080 --notebook-dir ~/BD_project
+ssh -N -o ServerAliveInterval=30 -L localhost:8080:localhost:8080 -L localhost:8087:localhost:8087 mt0603@hpc-login.arnes.si
+
+1. module load Anaconda3 && conda activate bd_project
+
+1. sbatch jupyter.sh (sbatch BD_project/jupyter.sh)
+2. read jupyter.log and create tunnel with data in it
+3. Create the tunnel with:
+    ssh -L 10964:wn033:10964 mt0603@hpc-login.arnes.si
+4. read jupyter.err, inside is the link
+
+
+TOKEN:
+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

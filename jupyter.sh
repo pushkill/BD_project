@@ -7,7 +7,7 @@
 port="${1:-$(( RANDOM % 40000 + 10000 ))}"
 
 module load Anaconda3
-source activate bd39
+source activate bd_project
 
 echo "Create the tunnel with:"
 echo "ssh -L ${port}:$SLURMD_NODENAME:${port} <HPC login node>"
