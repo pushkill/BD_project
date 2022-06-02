@@ -1,2 +1,2 @@
 Create the tunnel with:
-ssh -L 21722:wn155:21722 <HPC login node>
+ssh -L 30786:wn123:30786 <HPC login node>

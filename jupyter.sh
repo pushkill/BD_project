@@ -3,6 +3,7 @@
 #SBATCH --error=jupyter.err
 #SBATCH --nodes=1
 #SBATCH --ntasks=1
+#SBATCH --time=1000:00
 
 port="${1:-$(( RANDOM % 40000 + 10000 ))}"
 

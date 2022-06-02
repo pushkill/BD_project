@@ -1,2 +1,5 @@
 *.out
 *.parquet
+fucka_code/
+.ipynb_checkpoints/
+dask-worker-space/
