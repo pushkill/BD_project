@@ -15,6 +15,19 @@ ssh -N -o ServerAliveInterval=30 -L localhost:8080:localhost:8080 -L localhost:8
     ssh -L 10964:wn033:10964 mt0603@hpc-login.arnes.si
 4. read jupyter.err, inside is the link
 
+KERNEL ni zaznan v Jupyter-u:
+1. python -m ipykernel install --user --name bd_project --display-name "BD_Project"
+
+Streamz ne importa:
+1. Preveri če je v okolju od kernela instaliran (conda list)
+2. Ce je resetiraj kernel za vsak slucaj
+3. Sicer pa !pip install streamz (mogoce bo tudi tukaj potreben restart)
+
+Kako se povezati na GPU cluster:
+1. V SLURM cluster-ju spremenis queue="all" v queue="gpu"
+2. Mogoce zmanjsas st core-ov in memorija
+3. scale-as pomoje max na ene 12 workerjev (ker ni tolko gpu-jev)
+4. Proceed as usual
 
 TOKEN:
 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
