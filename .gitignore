@@ -1,5 +1,7 @@
 *.out
 *.parquet
+*.log
+*.err
 fucka_code/
 .ipynb_checkpoints/
 dask-worker-space/
