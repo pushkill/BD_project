@@ -28,6 +28,3 @@ Kako se povezati na GPU cluster:
 2. Mogoce zmanjsas st core-ov in memorija
 3. scale-as pomoje max na ene 12 workerjev (ker ni tolko gpu-jev)
 4. Proceed as usual
-
-TOKEN:
-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
